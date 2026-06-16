@@ -1,0 +1,4 @@
+*SUGESTOES*
+- evitar usar += em strings, preferivel usar a classe StringBuilder
+- usar Math.mim e Math.max para determinar o maior e menor;
+- não chamar split toda hora
