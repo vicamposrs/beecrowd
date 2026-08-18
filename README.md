@@ -51,11 +51,13 @@ Cada pasta tem seu próprio `README.md` com um resumo do problema e o link para 
 | 1060 | Positive Numbers | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1060) | [abrir](./solutions/1060-Positive-Numbers) |
 | 1064 | Positives and Average | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1064) | [abrir](./solutions/1064-Positives-and-Average) |
 | 1065 | Even Between Five Numbers | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1065) | [abrir](./solutions/1065-Even-Between-five-Numbers) |
+| 1066 | Even, Odd, Positive and Negative | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1066) | [abrir](./solutions/1066-Even-Odd-Positive-and-Negative) |
 | 1067 | Odd Numbers | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1067) | [abrir](./solutions/1067-Odd-Numbers) |
 | 1070 | Six Odd Numbers | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1070) | [abrir](./solutions/1070-Six-Odd-Numbers) |
 | 1071 | Sum of Consecutive Odd Numbers I | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1071) | [abrir](./solutions/1071-Sum-of-Consecutive-Odd-Numbers-I) |
 | 1072 | Interval 2 | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1072) | [abrir](./solutions/1072-Interval-2) |
 | 1073 | Even Square | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1073) | [abrir](./solutions/1073-Even-Square) |
+| 1075 | Remaining 2 | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1075) | [abrir](./solutions/1075-Remaining-2) |
 | 1095 | Sequence IJ 1 | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1095) | [abrir](./solutions/1095-Sequence-IJ-1) |
 | 1096 | Sequence IJ 2 | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1096) | [abrir](./solutions/1096-Sequence-IJ-2) |
 | 1097 | Sequence IJ 3 | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1097) | [abrir](./solutions/1097-Sequence-IJ-3) |
@@ -109,6 +111,7 @@ Cada pasta tem seu próprio `README.md` com um resumo do problema e o link para 
 | 2625 | CPF Validation | SQL | [ver](https://judge.beecrowd.com/en/problems/view/2625) | [abrir](./solutions/2625-CPF-Validatin) |
 | 2752 | Output 6 | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/2752) | [abrir](./solutions/2752-Output-6) |
 | 2756 | Output 10 | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/2756) | [abrir](./solutions/2756-Output-10) |
+| 2791 | Bean | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/2791) | [abrir](./solutions/2791-Bean) |
 | 2936 | How Much Cassava | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/2936) | [abrir](./solutions/2936-How-Much-Cassava) |
 | 3046 | Domino | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/3046) | [abrir](./solutions/3046-Domino) |
 | 3048 | Secret Sequence | Ad-Hoc | [ver](https://judge.beecrowd.com/en/problems/view/3048) | [abrir](./solutions/3048-Secret-Sequence) |
@@ -157,11 +160,13 @@ Cada pasta tem seu próprio `README.md` com um resumo do problema e o link para 
 - [1060 - Positive Numbers](./solutions/1060-Positive-Numbers)
 - [1064 - Positives and Average](./solutions/1064-Positives-and-Average)
 - [1065 - Even Between Five Numbers](./solutions/1065-Even-Between-five-Numbers)
+- [1066 - Even, Odd, Positive and Negative](./solutions/1066-Even-Odd-Positive-and-Negative)
 - [1067 - Odd Numbers](./solutions/1067-Odd-Numbers)
 - [1070 - Six Odd Numbers](./solutions/1070-Six-Odd-Numbers)
 - [1071 - Sum of Consecutive Odd Numbers I](./solutions/1071-Sum-of-Consecutive-Odd-Numbers-I)
 - [1072 - Interval 2](./solutions/1072-Interval-2)
 - [1073 - Even Square](./solutions/1073-Even-Square)
+- [1075 - Remaining 2](./solutions/1075-Remaining-2) |
 - [1095 - Sequence IJ 1](./solutions/1095-Sequence-IJ-1)
 - [1096 - Sequence IJ 2](./solutions/1096-Sequence-IJ-2)
 - [1097 - Sequence IJ 3](./solutions/1097-Sequence-IJ-3)
@@ -182,6 +187,7 @@ Cada pasta tem seu próprio `README.md` com um resumo do problema e o link para 
 - [2344 - Exam Grades](./solutions/2344-Exam-Grades)
 - [2752 - Output 6](./solutions/2752-Output-6)
 - [2756 - Output 10](./solutions/2756-Output-10)
+- [2791 - Bean](./solutions/2791-Bean)
 - [2936 - How Much Cassava](./solutions/2936-How-Much-Cassava)
 - [3046 - Domino](./solutions/3046-Domino)
 
