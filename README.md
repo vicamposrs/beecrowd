@@ -50,7 +50,7 @@ Cada pasta tem seu próprio `README.md` com um resumo do problema e o link para 
 | 1059 | Even Numbers | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1059) | [abrir](./solutions/1059-Even-Numbers) |
 | 1060 | Positive Numbers | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1060) | [abrir](./solutions/1060-Positive-Numbers) |
 | 1064 | Positives and Average | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1064) | [abrir](./solutions/1064-Positives-and-Average) |
-| 1065 | Even Between Five Numbers | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1065) | [abrir](./solutions/1065-Even-Between-five-Numbers) |
+| 1065 | Even Between five Numbers | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1065) | [abrir](./solutions/1065-Even-Between-five-Numbers) |
 | 1066 | Even, Odd, Positive and Negative | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1066) | [abrir](./solutions/1066-Even-Odd-Positive-and-Negative) |
 | 1067 | Odd Numbers | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1067) | [abrir](./solutions/1067-Odd-Numbers) |
 | 1070 | Six Odd Numbers | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1070) | [abrir](./solutions/1070-Six-Odd-Numbers) |
@@ -72,9 +72,9 @@ Cada pasta tem seu próprio `README.md` com um resumo do problema e o link para 
 | 1161 | Factorial Sum | Matemática | [ver](https://judge.beecrowd.com/en/problems/view/1161) | [abrir](./solutions/1161-Factorial-Sum) |
 | 1169 | Grains in a Chess Board | Matemática | [ver](https://judge.beecrowd.com/en/problems/view/1169) | [abrir](./solutions/1169-Grains-in-a-Chess-Board) |
 | 1214 | Above Average | Matemática | [ver](https://judge.beecrowd.com/en/problems/view/1214) | [abrir](./solutions/1214-Above-Average) |
-| 1219 | Colored Flowers | Matemática | [ver](https://judge.beecrowd.com/en/problems/view/1219) | [abrir](./solutions/1219-Time-Conversion) |
+| 1219 | Colourful Flowers | Matemática | [ver](https://judge.beecrowd.com/en/problems/view/1219) | [abrir](./solutions/1219-Colourful-Flowers) |
 | 1589 | Bob Conduit | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1589) | [abrir](./solutions/1589-Bob-Conduit) |
-| 1789 | Snail Race | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1789) | [abrir](./solutions/1789-) |
+| 1789 | Snail Race | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1789) | [abrir](./solutions/1789-Snail-Race) |
 | 1933 | Tri-du | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1933) | [abrir](./solutions/1933-Tri-du) |
 | 1985 | MacPRONALTS | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1985) | [abrir](./solutions/1985-MacPRONALTS) |
 | 2006 | Identifying Tea | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/2006) | [abrir](./solutions/2006-Identifying-Tea) |
@@ -108,7 +108,7 @@ Cada pasta tem seu próprio `README.md` com um resumo do problema e o link para 
 | 2622 | Legal Person | SQL | [ver](https://judge.beecrowd.com/en/problems/view/2622) | [abrir](./solutions/2622-Legal-Person) |
 | 2623 | Categories with Various Products | SQL | [ver](https://judge.beecrowd.com/en/problems/view/2623) | [abrir](./solutions/2623-Categories-with-Various-Products) |
 | 2624 | Number of Cities per Customers | SQL | [ver](https://judge.beecrowd.com/en/problems/view/2624) | [abrir](./solutions/2624-Number-of-Cities-per-Customers) |
-| 2625 | CPF Validation | SQL | [ver](https://judge.beecrowd.com/en/problems/view/2625) | [abrir](./solutions/2625-CPF-Validatin) |
+| 2625 | CPF Validation | SQL | [ver](https://judge.beecrowd.com/en/problems/view/2625) | [abrir](./solutions/2625-CPF-Validation) |
 | 2752 | Output 6 | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/2752) | [abrir](./solutions/2752-Output-6) |
 | 2756 | Output 10 | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/2756) | [abrir](./solutions/2756-Output-10) |
 | 2791 | Bean | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/2791) | [abrir](./solutions/2791-Bean) |
@@ -144,8 +144,8 @@ Cada pasta tem seu próprio `README.md` com um resumo do problema e o link para 
 - [1036 - Bhaskara's Formula](./solutions/1036-Bhaskaras-Formula)
 - [1037 - Interval](./solutions/1037-Interval)
 - [1038 - Snack](./solutions/1038-Snack)
-- [1040 - Average 3](./solutions/1040-Avarege-3)
-- [1041 - Coordinates of a Point](./solutions/1041-Cordinates-of-a-Point)
+- [1040 - Average 3](./solutions/1040-Average-3)
+- [1041 - Coordinates of a Point](./solutions/1041-Coordinates-of-a-Point)
 - [1042 - Simple Sort](./solutions/1042-Simple-Sort)
 - [1043 - Triangle](./solutions/1043-Triangle)
 - [1044 - Multiples](./solutions/1044-Multiples)
@@ -159,14 +159,14 @@ Cada pasta tem seu próprio `README.md` com um resumo do problema e o link para 
 - [1059 - Even Numbers](./solutions/1059-Even-Numbers)
 - [1060 - Positive Numbers](./solutions/1060-Positive-Numbers)
 - [1064 - Positives and Average](./solutions/1064-Positives-and-Average)
-- [1065 - Even Between Five Numbers](./solutions/1065-Even-Between-five-Numbers)
+- [1065 - Even Between five Numbers](./solutions/1065-Even-Between-five-Numbers)
 - [1066 - Even, Odd, Positive and Negative](./solutions/1066-Even-Odd-Positive-and-Negative)
 - [1067 - Odd Numbers](./solutions/1067-Odd-Numbers)
 - [1070 - Six Odd Numbers](./solutions/1070-Six-Odd-Numbers)
 - [1071 - Sum of Consecutive Odd Numbers I](./solutions/1071-Sum-of-Consecutive-Odd-Numbers-I)
 - [1072 - Interval 2](./solutions/1072-Interval-2)
 - [1073 - Even Square](./solutions/1073-Even-Square)
-- [1075 - Remaining 2](./solutions/1075-Remaining-2) |
+- [1075 - Remaining 2](./solutions/1075-Remaining-2)
 - [1095 - Sequence IJ 1](./solutions/1095-Sequence-IJ-1)
 - [1096 - Sequence IJ 2](./solutions/1096-Sequence-IJ-2)
 - [1097 - Sequence IJ 3](./solutions/1097-Sequence-IJ-3)
@@ -179,7 +179,7 @@ Cada pasta tem seu próprio `README.md` com um resumo do problema e o link para 
 - [1153 - Simple Factorial](./solutions/1153-Simple-Factorial)
 - [1157 - Divisors I](./solutions/1157-Divisors-I)
 - [1589 - Bob Conduit](./solutions/1589-Bob-Conduit)
-- [1789 - Snail Race](./solutions/1789-)
+- [1789 - Snail Race](./solutions/1789-Snail-Race)
 - [1933 - Tri-du](./solutions/1933-Tri-du)
 - [1985 - MacPRONALTS](./solutions/1985-MacPRONALTS)
 - [2006 - Identifying Tea](./solutions/2006-Identifying-Tea)
@@ -209,12 +209,12 @@ Cada pasta tem seu próprio `README.md` com um resumo do problema e o link para 
 - [1028 - Collectable Cards](./solutions/1028-Collectable-Cards)
 - [1161 - Factorial Sum](./solutions/1161-Factorial-Sum)
 - [1169 - Grains in a Chess Board](./solutions/1169-Grains-in-a-Chess-Board)
-- [1214 - Above Average](./solutions/1214-Above-Avarege)
-- [1219 - Colored Flowers](./solutions/1219-Time-Conversion)
+- [1214 - Above Average](./solutions/1214-Above-Average)
+- [1219 - Colourful Flowers](./solutions/1219-Colourful-Flowers)
 
 ### SQL
 - [2602 - Basic Select](./solutions/2602-Basic-Select)
-- [2603 - Customer Address](./solutions/2603-Customer-Adress)
+- [2603 - Customer Address](./solutions/2603-Customer-Address)
 - [2604 - Under 10 or Greater Than 100](./solutions/2604-Under-10-or-Greater-Than-100)
 - [2605 - Executive Representatives](./solutions/2605-Executive-Representatives)
 - [2606 - Categories](./solutions/2606-Categories)
@@ -233,4 +233,11 @@ Cada pasta tem seu próprio `README.md` com um resumo do problema e o link para 
 - [2622 - Legal Person](./solutions/2622-Legal-Person)
 - [2623 - Categories with Various Products](./solutions/2623-Categories-with-Various-Products)
 - [2624 - Number of Cities per Customers](./solutions/2624-Number-of-Cities-per-Customers)
-- [2625 - CPF Validation](./solutions/2625-CPF-Validatin)
+- [2625 - CPF Validation](./solutions/2625-CPF-Validation)
+
+## Mantendo o índice atualizado
+Pra adicionar um novo exercício, edite `problems.csv` (número, nome, categoria) e rode:
+```bash
+python tools/gen_readme.py
+```
+O script regenera este README automaticamente a partir do CSV.
