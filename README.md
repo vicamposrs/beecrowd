@@ -57,7 +57,9 @@ Cada pasta tem seu próprio `README.md` com um resumo do problema e o link para 
 | 1071 | Sum of Consecutive Odd Numbers I | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1071) | [abrir](./solutions/1071-Sum-of-Consecutive-Odd-Numbers-I) |
 | 1072 | Interval 2 | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1072) | [abrir](./solutions/1072-Interval-2) |
 | 1073 | Even Square | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1073) | [abrir](./solutions/1073-Even-Square) |
+| 1074 | Even or Odd | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1074) | [abrir](./solutions/1074-Even-or-Odd) |
 | 1075 | Remaining 2 | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1075) | [abrir](./solutions/1075-Remaining-2) |
+| 1078 | Multiplication Table | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1078) | [abrir](./solutions/1078-Multiplication-Table) |
 | 1095 | Sequence IJ 1 | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1095) | [abrir](./solutions/1095-Sequence-IJ-1) |
 | 1096 | Sequence IJ 2 | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1096) | [abrir](./solutions/1096-Sequence-IJ-2) |
 | 1097 | Sequence IJ 3 | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1097) | [abrir](./solutions/1097-Sequence-IJ-3) |
@@ -71,6 +73,7 @@ Cada pasta tem seu próprio `README.md` com um resumo do problema e o link para 
 | 1157 | Divisors I | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1157) | [abrir](./solutions/1157-Divisors-I) |
 | 1161 | Factorial Sum | Matemática | [ver](https://judge.beecrowd.com/en/problems/view/1161) | [abrir](./solutions/1161-Factorial-Sum) |
 | 1169 | Grains in a Chess Board | Matemática | [ver](https://judge.beecrowd.com/en/problems/view/1169) | [abrir](./solutions/1169-Grains-in-a-Chess-Board) |
+| 1174 | Array Selection I | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1174) | [abrir](./solutions/1174-Array-Selection-I) |
 | 1214 | Above Average | Matemática | [ver](https://judge.beecrowd.com/en/problems/view/1214) | [abrir](./solutions/1214-Above-Average) |
 | 1219 | Colourful Flowers | Matemática | [ver](https://judge.beecrowd.com/en/problems/view/1219) | [abrir](./solutions/1219-Colourful-Flowers) |
 | 1589 | Bob Conduit | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1589) | [abrir](./solutions/1589-Bob-Conduit) |
@@ -166,7 +169,9 @@ Cada pasta tem seu próprio `README.md` com um resumo do problema e o link para 
 - [1071 - Sum of Consecutive Odd Numbers I](./solutions/1071-Sum-of-Consecutive-Odd-Numbers-I)
 - [1072 - Interval 2](./solutions/1072-Interval-2)
 - [1073 - Even Square](./solutions/1073-Even-Square)
+- [1074 - Even or Odd](./solutions/1074-Even-or-Odd)
 - [1075 - Remaining 2](./solutions/1075-Remaining-2)
+- [1078 - Multiplication Table](./solutions/1078-Multiplication-Table)
 - [1095 - Sequence IJ 1](./solutions/1095-Sequence-IJ-1)
 - [1096 - Sequence IJ 2](./solutions/1096-Sequence-IJ-2)
 - [1097 - Sequence IJ 3](./solutions/1097-Sequence-IJ-3)
@@ -178,6 +183,7 @@ Cada pasta tem seu próprio `README.md` com um resumo do problema e o link para 
 - [1144 - Logical Sequence](./solutions/1144-Logical-Sequence)
 - [1153 - Simple Factorial](./solutions/1153-Simple-Factorial)
 - [1157 - Divisors I](./solutions/1157-Divisors-I)
+- [1174 - Array Selection I](./solutions/1174-Array-Selection-I)
 - [1589 - Bob Conduit](./solutions/1589-Bob-Conduit)
 - [1789 - Snail Race](./solutions/1789-Snail-Race)
 - [1933 - Tri-du](./solutions/1933-Tri-du)
