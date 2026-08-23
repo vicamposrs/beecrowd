@@ -65,7 +65,6 @@ numero,nome,categoria
 1214,Above Average,Matemática
 1219,Colourful Flowers,Matemática
 1589,Bob Conduit,Iniciante
-1789,Snail Race,Iniciante
 1933,Tri-du,Iniciante
 1985,MacPRONALTS,Iniciante
 2006,Identifying Tea,Iniciante
@@ -109,3 +108,5 @@ numero,nome,categoria
 1074,Even or Odd,Iniciante
 1078,Multiplication Table,Iniciante
 1174,Array Selection I,Iniciante
+1061,Event Time,Iniciante
+1789,The Race of Slugs,Iniciante

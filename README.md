@@ -49,6 +49,7 @@ Cada pasta tem seu próprio `README.md` com um resumo do problema e o link para 
 | 1052 | Month | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1052) | [abrir](./solutions/1052-Month) |
 | 1059 | Even Numbers | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1059) | [abrir](./solutions/1059-Even-Numbers) |
 | 1060 | Positive Numbers | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1060) | [abrir](./solutions/1060-Positive-Numbers) |
+| 1061 | Event Time | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1061) | [abrir](./solutions/1061-Event-Time) |
 | 1064 | Positives and Average | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1064) | [abrir](./solutions/1064-Positives-and-Average) |
 | 1065 | Even Between five Numbers | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1065) | [abrir](./solutions/1065-Even-Between-five-Numbers) |
 | 1066 | Even, Odd, Positive and Negative | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1066) | [abrir](./solutions/1066-Even-Odd-Positive-and-Negative) |
@@ -77,7 +78,7 @@ Cada pasta tem seu próprio `README.md` com um resumo do problema e o link para 
 | 1214 | Above Average | Matemática | [ver](https://judge.beecrowd.com/en/problems/view/1214) | [abrir](./solutions/1214-Above-Average) |
 | 1219 | Colourful Flowers | Matemática | [ver](https://judge.beecrowd.com/en/problems/view/1219) | [abrir](./solutions/1219-Colourful-Flowers) |
 | 1589 | Bob Conduit | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1589) | [abrir](./solutions/1589-Bob-Conduit) |
-| 1789 | Snail Race | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1789) | [abrir](./solutions/1789-Snail-Race) |
+| 1789 | The Race of Slugs | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1789) | [abrir](./solutions/1789-The-Race-of-Slugs) |
 | 1933 | Tri-du | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1933) | [abrir](./solutions/1933-Tri-du) |
 | 1985 | MacPRONALTS | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1985) | [abrir](./solutions/1985-MacPRONALTS) |
 | 2006 | Identifying Tea | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/2006) | [abrir](./solutions/2006-Identifying-Tea) |
@@ -161,6 +162,7 @@ Cada pasta tem seu próprio `README.md` com um resumo do problema e o link para 
 - [1052 - Month](./solutions/1052-Month)
 - [1059 - Even Numbers](./solutions/1059-Even-Numbers)
 - [1060 - Positive Numbers](./solutions/1060-Positive-Numbers)
+- [1061 - Event Time](./solutions/1061-Event-Time)
 - [1064 - Positives and Average](./solutions/1064-Positives-and-Average)
 - [1065 - Even Between five Numbers](./solutions/1065-Even-Between-five-Numbers)
 - [1066 - Even, Odd, Positive and Negative](./solutions/1066-Even-Odd-Positive-and-Negative)
@@ -185,7 +187,7 @@ Cada pasta tem seu próprio `README.md` com um resumo do problema e o link para 
 - [1157 - Divisors I](./solutions/1157-Divisors-I)
 - [1174 - Array Selection I](./solutions/1174-Array-Selection-I)
 - [1589 - Bob Conduit](./solutions/1589-Bob-Conduit)
-- [1789 - Snail Race](./solutions/1789-Snail-Race)
+- [1789 - The Race of Slugs](./solutions/1789-The-Race-of-Slugs)
 - [1933 - Tri-du](./solutions/1933-Tri-du)
 - [1985 - MacPRONALTS](./solutions/1985-MacPRONALTS)
 - [2006 - Identifying Tea](./solutions/2006-Identifying-Tea)
