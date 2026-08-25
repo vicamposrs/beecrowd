@@ -70,6 +70,7 @@ Cada pasta tem seu próprio `README.md` com um resumo do problema e o link para 
 | 1133 | Rest of a Division | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1133) | [abrir](./solutions/1133-Rest-of-a-Division) |
 | 1143 | Squared and Cubic | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1143) | [abrir](./solutions/1143-Squared-and-Cubic) |
 | 1144 | Logical Sequence | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1144) | [abrir](./solutions/1144-Logical-Sequence) |
+| 1146 | Growing Sequences | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1146) | [abrir](./solutions/1146-Growing-Sequences) |
 | 1153 | Simple Factorial | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1153) | [abrir](./solutions/1153-Simple-Factorial) |
 | 1157 | Divisors I | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1157) | [abrir](./solutions/1157-Divisors-I) |
 | 1161 | Factorial Sum | Matemática | [ver](https://judge.beecrowd.com/en/problems/view/1161) | [abrir](./solutions/1161-Factorial-Sum) |
@@ -84,6 +85,7 @@ Cada pasta tem seu próprio `README.md` com um resumo do problema e o link para 
 | 2006 | Identifying Tea | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/2006) | [abrir](./solutions/2006-Identifying-Tea) |
 | 2058 | Triangles and Regular Polygons | Ad-Hoc | [ver](https://judge.beecrowd.com/en/problems/view/2058) | [abrir](./solutions/2058-Triangles-and-Regular-Polygons) |
 | 2061 | Closing Tabs | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/2061) | [abrir](./solutions/2061-Closing-Tabs) |
+| 2172 | Event | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/2172) | [abrir](./solutions/2172-Event) |
 | 2339 | Paper Planes | Ad-Hoc | [ver](https://judge.beecrowd.com/en/problems/view/2339) | [abrir](./solutions/2339-Paper-Planes) |
 | 2344 | Exam Grades | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/2344) | [abrir](./solutions/2344-Exam-Grades) |
 | 2374 | Tire | Ad-Hoc | [ver](https://judge.beecrowd.com/en/problems/view/2374) | [abrir](./solutions/2374-Tire) |
@@ -183,6 +185,7 @@ Cada pasta tem seu próprio `README.md` com um resumo do problema e o link para 
 - [1133 - Rest of a Division](./solutions/1133-Rest-of-a-Division)
 - [1143 - Squared and Cubic](./solutions/1143-Squared-and-Cubic)
 - [1144 - Logical Sequence](./solutions/1144-Logical-Sequence)
+- [1146 - Growing Sequences](./solutions/1146-Growing-Sequences)
 - [1153 - Simple Factorial](./solutions/1153-Simple-Factorial)
 - [1157 - Divisors I](./solutions/1157-Divisors-I)
 - [1174 - Array Selection I](./solutions/1174-Array-Selection-I)
@@ -192,6 +195,7 @@ Cada pasta tem seu próprio `README.md` com um resumo do problema e o link para 
 - [1985 - MacPRONALTS](./solutions/1985-MacPRONALTS)
 - [2006 - Identifying Tea](./solutions/2006-Identifying-Tea)
 - [2061 - Closing Tabs](./solutions/2061-Closing-Tabs)
+- [2172 - Event](./solutions/2172-Event)
 - [2344 - Exam Grades](./solutions/2344-Exam-Grades)
 - [2752 - Output 6](./solutions/2752-Output-6)
 - [2756 - Output 10](./solutions/2756-Output-10)
