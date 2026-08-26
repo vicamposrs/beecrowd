@@ -17,6 +17,7 @@ Cada pasta tem seu próprio `README.md` com um resumo do problema e o link para 
 | 1006 | Average 2 | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1006) | [abrir](./solutions/1006-Average-2) |
 | 1007 | Difference | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1007) | [abrir](./solutions/1007-Difference) |
 | 1008 | Salary | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1008) | [abrir](./solutions/1008-Salary) |
+| 1009 | Salary-with-Bonus | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1009) | [abrir](./solutions/1009-Salary-with-Bonus) |
 | 1010 | Simple Calculate | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1010) | [abrir](./solutions/1010-Simple-Calculate) |
 | 1011 | Sphere | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1011) | [abrir](./solutions/1011-Sphere) |
 | 1012 | Area | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1012) | [abrir](./solutions/1012-Area) |
@@ -46,6 +47,7 @@ Cada pasta tem seu próprio `README.md` com um resumo do problema e o link para 
 | 1048 | Salary Increase | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1048) | [abrir](./solutions/1048-Salary-Increase) |
 | 1049 | Animal | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1049) | [abrir](./solutions/1049-Animal) |
 | 1050 | DDD | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1050) | [abrir](./solutions/1050-DDD) |
+| 1051 | Taxes | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1051) | [abrir](./solutions/1051-Taxes) |
 | 1052 | Month | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1052) | [abrir](./solutions/1052-Month) |
 | 1059 | Even Numbers | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1059) | [abrir](./solutions/1059-Even-Numbers) |
 | 1060 | Positive Numbers | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1060) | [abrir](./solutions/1060-Positive-Numbers) |
@@ -134,6 +136,7 @@ Cada pasta tem seu próprio `README.md` com um resumo do problema e o link para 
 - [1006 - Average 2](./solutions/1006-Average-2)
 - [1007 - Difference](./solutions/1007-Difference)
 - [1008 - Salary](./solutions/1008-Salary)
+- [1009 - Salary-with-Bonus](./solutions/1009-Salary-with-Bonus)
 - [1010 - Simple Calculate](./solutions/1010-Simple-Calculate)
 - [1011 - Sphere](./solutions/1011-Sphere)
 - [1012 - Area](./solutions/1012-Area)
@@ -161,6 +164,7 @@ Cada pasta tem seu próprio `README.md` com um resumo do problema e o link para 
 - [1048 - Salary Increase](./solutions/1048-Salary-Increase)
 - [1049 - Animal](./solutions/1049-Animal)
 - [1050 - DDD](./solutions/1050-DDD)
+- [1051 - Taxes](./solutions/1051-Taxes)
 - [1052 - Month](./solutions/1052-Month)
 - [1059 - Even Numbers](./solutions/1059-Even-Numbers)
 - [1060 - Positive Numbers](./solutions/1060-Positive-Numbers)
