@@ -63,6 +63,9 @@ Cada pasta tem seu próprio `README.md` com um resumo do problema e o link para 
 | 1074 | Even or Odd | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1074) | [abrir](./solutions/1074-Even-or-Odd) |
 | 1075 | Remaining 2 | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1075) | [abrir](./solutions/1075-Remaining-2) |
 | 1078 | Multiplication Table | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1078) | [abrir](./solutions/1078-Multiplication-Table) |
+| 1079 | Weighted Averages | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1079) | [abrir](./solutions/1079-Weighted-Averages) |
+| 1080 | Highest and Position | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1080) | [abrir](./solutions/1080-Highest-and-Position) |
+| 1094 | Experiments | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1094) | [abrir](./solutions/1094-Experiments) |
 | 1095 | Sequence IJ 1 | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1095) | [abrir](./solutions/1095-Sequence-IJ-1) |
 | 1096 | Sequence IJ 2 | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1096) | [abrir](./solutions/1096-Sequence-IJ-2) |
 | 1097 | Sequence IJ 3 | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1097) | [abrir](./solutions/1097-Sequence-IJ-3) |
@@ -180,6 +183,9 @@ Cada pasta tem seu próprio `README.md` com um resumo do problema e o link para 
 - [1074 - Even or Odd](./solutions/1074-Even-or-Odd)
 - [1075 - Remaining 2](./solutions/1075-Remaining-2)
 - [1078 - Multiplication Table](./solutions/1078-Multiplication-Table)
+- [1079 - Weighted Averages](./solutions/1079-Weighted-Averages)
+- [1080 - Highest and Position](./solutions/1080-Highest-and-Position)
+- [1094 - Experiments](./solutions/1094-Experiments)
 - [1095 - Sequence IJ 1](./solutions/1095-Sequence-IJ-1)
 - [1096 - Sequence IJ 2](./solutions/1096-Sequence-IJ-2)
 - [1097 - Sequence IJ 3](./solutions/1097-Sequence-IJ-3)
