@@ -70,7 +70,10 @@ Cada pasta tem seu próprio `README.md` com um resumo do problema e o link para 
 | 1096 | Sequence IJ 2 | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1096) | [abrir](./solutions/1096-Sequence-IJ-2) |
 | 1097 | Sequence IJ 3 | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1097) | [abrir](./solutions/1097-Sequence-IJ-3) |
 | 1098 | Sequence IJ 4 | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1098) | [abrir](./solutions/1098-Sequence-IJ-4) |
+| 1099 | Sum of Consecutive Odd Numbers II | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1099) | [abrir](./solutions/1099-Sum-of-Consecutive-Odd-Numbers-II) |
 | 1101 | Sequence of Numbers and Sum | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1101) | [abrir](./solutions/1101-Sequence-of-Numbers-and-Sum) |
+| 1113 | Ascending and Descending | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1113) | [abrir](./solutions/1113-Ascending-and-Descending) |
+| 1114 | Fixed Password | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1114) | [abrir](./solutions/1114-Fixed-Password) |
 | 1132 | Multiples of 13 | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1132) | [abrir](./solutions/1132-Multiples-of-13) |
 | 1133 | Rest of a Division | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1133) | [abrir](./solutions/1133-Rest-of-a-Division) |
 | 1143 | Squared and Cubic | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1143) | [abrir](./solutions/1143-Squared-and-Cubic) |
@@ -190,7 +193,10 @@ Cada pasta tem seu próprio `README.md` com um resumo do problema e o link para 
 - [1096 - Sequence IJ 2](./solutions/1096-Sequence-IJ-2)
 - [1097 - Sequence IJ 3](./solutions/1097-Sequence-IJ-3)
 - [1098 - Sequence IJ 4](./solutions/1098-Sequence-IJ-4)
+- [1099 - Sum of Consecutive Odd Numbers II](./solutions/1099-Sum-of-Consecutive-Odd-Numbers-II)
 - [1101 - Sequence of Numbers and Sum](./solutions/1101-Sequence-of-Numbers-and-Sum)
+- [1113 - Ascending and Descending](./solutions/1113-Ascending-and-Descending)
+- [1114 - Fixed Password](./solutions/1114-Fixed-Password)
 - [1132 - Multiples of 13](./solutions/1132-Multiples-of-13)
 - [1133 - Rest of a Division](./solutions/1133-Rest-of-a-Division)
 - [1143 - Squared and Cubic](./solutions/1143-Squared-and-Cubic)
