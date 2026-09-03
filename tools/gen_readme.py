@@ -52,7 +52,17 @@ for _,linha in df.iterrows():
 
 # gerar em ordem por categoria
 
-categorias = ["Iniciante","Ad-Hoc","Strings","Matemática","SQL"]
+categorias = [
+    "Iniciante",
+    "Ad-Hoc",
+    "Strings",
+    "Estruturas e Bibliotecas",
+    "Matemática",
+    "Paradigmas",
+    "Grafos",
+    "Geometria Computacional",
+    "SQL"
+]
 
 conteudo += "\n## Por categoria\n"
 

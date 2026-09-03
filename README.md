@@ -31,6 +31,7 @@ Cada pasta tem seu próprio `README.md` com um resumo do problema e o link para 
 | 1020 | Age in Days | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1020) | [abrir](./solutions/1020-Age-in-Days) |
 | 1021 | Banknotes and Coins | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1021) | [abrir](./solutions/1021-Banknotes-and-Coins) |
 | 1024 | Encryption | Strings | [ver](https://judge.beecrowd.com/en/problems/view/1024) | [abrir](./solutions/1024-Encryption) |
+| 1026 | To Carry or not to Carry | Ad-Hoc | [ver](https://judge.beecrowd.com/en/problems/view/1026) | [abrir](./solutions/1026-To-Carry-or-not-to-Carry) |
 | 1028 | Collectable Cards | Matemática | [ver](https://judge.beecrowd.com/en/problems/view/1028) | [abrir](./solutions/1028-Collectable-Cards) |
 | 1035 | Selection Test 1 | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1035) | [abrir](./solutions/1035-Selection-Test-1) |
 | 1036 | Bhaskara's Formula | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1036) | [abrir](./solutions/1036-Bhaskaras-Formula) |
@@ -220,6 +221,7 @@ Cada pasta tem seu próprio `README.md` com um resumo do problema e o link para 
 - [3046 - Domino](./solutions/3046-Domino)
 
 ### Ad-Hoc
+- [1026 - To Carry or not to Carry](./solutions/1026-To-Carry-or-not-to-Carry)
 - [2058 - Triangles and Regular Polygons](./solutions/2058-Triangles-and-Regular-Polygons)
 - [2339 - Paper Planes](./solutions/2339-Paper-Planes)
 - [2374 - Tire](./solutions/2374-Tire)
@@ -233,12 +235,20 @@ Cada pasta tem seu próprio `README.md` com um resumo do problema e o link para 
 ### Strings
 - [1024 - Encryption](./solutions/1024-Encryption)
 
+### Estruturas e Bibliotecas
+
 ### Matemática
 - [1028 - Collectable Cards](./solutions/1028-Collectable-Cards)
 - [1161 - Factorial Sum](./solutions/1161-Factorial-Sum)
 - [1169 - Grains in a Chess Board](./solutions/1169-Grains-in-a-Chess-Board)
 - [1214 - Above Average](./solutions/1214-Above-Average)
 - [1219 - Colourful Flowers](./solutions/1219-Colourful-Flowers)
+
+### Paradigmas
+
+### Grafos
+
+### Geometria Computacional
 
 ### SQL
 - [2602 - Basic Select](./solutions/2602-Basic-Select)
