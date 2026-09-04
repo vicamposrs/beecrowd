@@ -17,19 +17,26 @@ class Node{
         this.val = val;
     }
 
-    static String pre(Node a){
-        if(a == null) return "";
-        return " " + a.val + pre(a.left) + pre(a.right);
+    static void pre(Node a,StringBuilder sb){
+        if(a == null) return;
+        sb.append(" ").append(a.val);
+        pre(a.left,sb);
+        pre(a.right,sb);
+
     }
 
-    static String in(Node a){
-        if(a == null) return "";
-        return in(a.left) +" " + a.val + in(a.right);
+    static void in(Node a,StringBuilder sb){
+        if(a == null) return;
+        in(a.left,sb);
+        sb.append(" ").append(a.val);
+        in(a.right,sb);
     }
 
-    static String post(Node a){
-        if(a == null) return "";
-        return post(a.left) + post(a.right) +" " + a.val;
+    static void post(Node a,StringBuilder sb){
+        if(a == null) return;
+        post(a.left,sb);
+        post(a.right,sb);
+        sb.append(" ").append(a.val);
     }
 }
 
@@ -46,18 +53,19 @@ public class Main{
             for(int j = 1; j<N; j++){
                 Node temp = root;
                 val = Integer.parseInt(line[j]);
-                while(val > -1){
+                boolean notInserted = true;
+                while( notInserted ){
                     if(val < temp.val){
                         if(temp.left == null){
                             temp.left = new Node(val);
-                            val = -1;
+                            notInserted = false;
                         }
                         else temp = temp.left;
                     }
                     else{
                         if(temp.right == null){
                             temp.right = new Node(val);
-                            val = -1;
+                            notInserted = false;
                         }
                         else temp = temp.right;
                     }
@@ -65,9 +73,9 @@ public class Main{
             }
 
             output.append("Case ").append(i + 1).append(":\n");
-            output.append("Pre.:").append(Node.pre(root)).append("\n");
-            output.append("In..:").append(Node.in(root)).append("\n");
-            output.append("Post:").append(Node.post(root)).append("\n\n");
+            output.append("Pre.:");Node.pre(root,output);output.append("\n");
+            output.append("In..:");Node.in(root,output); output.append("\n");
+            output.append("Post:");Node.post(root,output);output.append("\n\n");
         }
         System.out.print(output);
     }
