@@ -17,6 +17,17 @@ class Node{
         this.val = val;
     }
 
+    void insert(int val){
+        if(val < this.val){
+            if(this.left == null) this.left = new Node(val);
+            else (this.left).insert(val);                    
+        }
+        else{
+            if(this.right == null) this.right = new Node(val);
+            else (this.right).insert(val);
+        }
+    }
+
     static void pre(Node a,StringBuilder sb){
         if(a == null) return;
         sb.append(" ").append(a.val);
@@ -51,25 +62,8 @@ public class Main{
             int val = Integer.parseInt(line[0]);
             Node root = new Node(val);
             for(int j = 1; j<N; j++){
-                Node temp = root;
                 val = Integer.parseInt(line[j]);
-                boolean notInserted = true;
-                while( notInserted ){
-                    if(val < temp.val){
-                        if(temp.left == null){
-                            temp.left = new Node(val);
-                            notInserted = false;
-                        }
-                        else temp = temp.left;
-                    }
-                    else{
-                        if(temp.right == null){
-                            temp.right = new Node(val);
-                            notInserted = false;
-                        }
-                        else temp = temp.right;
-                    }
-                }
+                root.insert(val);
             }
 
             output.append("Case ").append(i + 1).append(":\n");

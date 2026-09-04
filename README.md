@@ -86,6 +86,7 @@ Cada pasta tem seu próprio `README.md` com um resumo do problema e o link para 
 | 1161 | Factorial Sum | Matemática | [ver](https://judge.beecrowd.com/en/problems/view/1161) | [abrir](./solutions/1161-Factorial-Sum) |
 | 1169 | Grains in a Chess Board | Matemática | [ver](https://judge.beecrowd.com/en/problems/view/1169) | [abrir](./solutions/1169-Grains-in-a-Chess-Board) |
 | 1174 | Array Selection I | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1174) | [abrir](./solutions/1174-Array-Selection-I) |
+| 1195 | Binary Search Tree | Grafos | [ver](https://judge.beecrowd.com/en/problems/view/1195) | [abrir](./solutions/1195-Binary-Search-Tree) |
 | 1214 | Above Average | Matemática | [ver](https://judge.beecrowd.com/en/problems/view/1214) | [abrir](./solutions/1214-Above-Average) |
 | 1219 | Colourful Flowers | Matemática | [ver](https://judge.beecrowd.com/en/problems/view/1219) | [abrir](./solutions/1219-Colourful-Flowers) |
 | 1589 | Bob Conduit | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1589) | [abrir](./solutions/1589-Bob-Conduit) |
@@ -249,6 +250,7 @@ Cada pasta tem seu próprio `README.md` com um resumo do problema e o link para 
 ### Paradigmas
 
 ### Grafos
+- [1195 - Binary Search Tree](./solutions/1195-Binary-Search-Tree)
 
 ### Geometria Computacional
 
