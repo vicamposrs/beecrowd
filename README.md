@@ -33,6 +33,7 @@ Cada pasta tem seu próprio `README.md` com um resumo do problema e o link para 
 | 1024 | Encryption | Strings | [ver](https://judge.beecrowd.com/en/problems/view/1024) | [abrir](./solutions/1024-Encryption) |
 | 1026 | To Carry or not to Carry | Ad-Hoc | [ver](https://judge.beecrowd.com/en/problems/view/1026) | [abrir](./solutions/1026-To-Carry-or-not-to-Carry) |
 | 1028 | Collectable Cards | Matemática | [ver](https://judge.beecrowd.com/en/problems/view/1028) | [abrir](./solutions/1028-Collectable-Cards) |
+| 1030 | Flavious Josephus Legend | Ad-Hoc | [ver](https://judge.beecrowd.com/en/problems/view/1030) | [abrir](./solutions/1030-Flavious-Josephus-Legend) |
 | 1035 | Selection Test 1 | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1035) | [abrir](./solutions/1035-Selection-Test-1) |
 | 1036 | Bhaskara's Formula | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1036) | [abrir](./solutions/1036-Bhaskaras-Formula) |
 | 1037 | Interval | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1037) | [abrir](./solutions/1037-Interval) |
@@ -222,6 +223,7 @@ Cada pasta tem seu próprio `README.md` com um resumo do problema e o link para 
 
 ### Ad-Hoc
 - [1026 - To Carry or not to Carry](./solutions/1026-To-Carry-or-not-to-Carry)
+- [1030 - Flavious Josephus Legend](./solutions/1030-Flavious-Josephus-Legend)
 - [2058 - Triangles and Regular Polygons](./solutions/2058-Triangles-and-Regular-Polygons)
 - [2339 - Paper Planes](./solutions/2339-Paper-Planes)
 - [2374 - Tire](./solutions/2374-Tire)
