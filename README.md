@@ -78,9 +78,12 @@ Cada pasta tem seu próprio `README.md` com um resumo do problema e o link para 
 | 1114 | Fixed Password | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1114) | [abrir](./solutions/1114-Fixed-Password) |
 | 1115 | Quadrant | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1115) | [abrir](./solutions/1115-Quadrant) |
 | 1116 | Dividing X by Y | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1116) | [abrir](./solutions/1116-Dividing-X-by-Y) |
-| 1117 | 	Score Validation | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1117) | [abrir](./solutions/1117-	Score-Validation) |
+| 1117 | Score Validation | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1117) | [abrir](./solutions/1117-Score-Validation) |
+| 1118 | Several Scores with Validation | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1118) | [abrir](./solutions/1118-Several-Scores-with-Validation) |
+| 1131 | Grenais | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1131) | [abrir](./solutions/1131-Grenais) |
 | 1132 | Multiples of 13 | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1132) | [abrir](./solutions/1132-Multiples-of-13) |
 | 1133 | Rest of a Division | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1133) | [abrir](./solutions/1133-Rest-of-a-Division) |
+| 1134 | Type of Fuel | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1134) | [abrir](./solutions/1134-Type-of-Fuel) |
 | 1143 | Squared and Cubic | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1143) | [abrir](./solutions/1143-Squared-and-Cubic) |
 | 1144 | Logical Sequence | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1144) | [abrir](./solutions/1144-Logical-Sequence) |
 | 1146 | Growing Sequences | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1146) | [abrir](./solutions/1146-Growing-Sequences) |
@@ -205,9 +208,12 @@ Cada pasta tem seu próprio `README.md` com um resumo do problema e o link para 
 - [1114 - Fixed Password](./solutions/1114-Fixed-Password)
 - [1115 - Quadrant](./solutions/1115-Quadrant)
 - [1116 - Dividing X by Y](./solutions/1116-Dividing-X-by-Y)
-- [1117 - 	Score Validation](./solutions/1117-	Score-Validation)
+- [1117 - Score Validation](./solutions/1117-Score-Validation)
+- [1118 - Several Scores with Validation](./solutions/1118-Several-Scores-with-Validation)
+- [1131 - Grenais](./solutions/1131-Grenais)
 - [1132 - Multiples of 13](./solutions/1132-Multiples-of-13)
 - [1133 - Rest of a Division](./solutions/1133-Rest-of-a-Division)
+- [1134 - Type of Fuel](./solutions/1134-Type-of-Fuel)
 - [1143 - Squared and Cubic](./solutions/1143-Squared-and-Cubic)
 - [1144 - Logical Sequence](./solutions/1144-Logical-Sequence)
 - [1146 - Growing Sequences](./solutions/1146-Growing-Sequences)
