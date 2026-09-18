@@ -84,9 +84,13 @@ Cada pasta tem seu próprio `README.md` com um resumo do problema e o link para 
 | 1132 | Multiples of 13 | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1132) | [abrir](./solutions/1132-Multiples-of-13) |
 | 1133 | Rest of a Division | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1133) | [abrir](./solutions/1133-Rest-of-a-Division) |
 | 1134 | Type of Fuel | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1134) | [abrir](./solutions/1134-Type-of-Fuel) |
+| 1142 | PUM | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1142) | [abrir](./solutions/1142-PUM) |
 | 1143 | Squared and Cubic | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1143) | [abrir](./solutions/1143-Squared-and-Cubic) |
 | 1144 | Logical Sequence | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1144) | [abrir](./solutions/1144-Logical-Sequence) |
+| 1145 | Logical Sequence 2 | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1145) | [abrir](./solutions/1145-Logical-Sequence-2) |
 | 1146 | Growing Sequences | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1146) | [abrir](./solutions/1146-Growing-Sequences) |
+| 1149 | Summing Consecutive Integers | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1149) | [abrir](./solutions/1149-Summing-Consecutive-Integers) |
+| 1150 | Exceeding Z | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1150) | [abrir](./solutions/1150-Exceeding-Z) |
 | 1153 | Simple Factorial | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1153) | [abrir](./solutions/1153-Simple-Factorial) |
 | 1157 | Divisors I | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1157) | [abrir](./solutions/1157-Divisors-I) |
 | 1161 | Factorial Sum | Matemática | [ver](https://judge.beecrowd.com/en/problems/view/1161) | [abrir](./solutions/1161-Factorial-Sum) |
@@ -214,9 +218,13 @@ Cada pasta tem seu próprio `README.md` com um resumo do problema e o link para 
 - [1132 - Multiples of 13](./solutions/1132-Multiples-of-13)
 - [1133 - Rest of a Division](./solutions/1133-Rest-of-a-Division)
 - [1134 - Type of Fuel](./solutions/1134-Type-of-Fuel)
+- [1142 - PUM](./solutions/1142-PUM)
 - [1143 - Squared and Cubic](./solutions/1143-Squared-and-Cubic)
 - [1144 - Logical Sequence](./solutions/1144-Logical-Sequence)
+- [1145 - Logical Sequence 2](./solutions/1145-Logical-Sequence-2)
 - [1146 - Growing Sequences](./solutions/1146-Growing-Sequences)
+- [1149 - Summing Consecutive Integers](./solutions/1149-Summing-Consecutive-Integers)
+- [1150 - Exceeding Z](./solutions/1150-Exceeding-Z)
 - [1153 - Simple Factorial](./solutions/1153-Simple-Factorial)
 - [1157 - Divisors I](./solutions/1157-Divisors-I)
 - [1174 - Array Selection I](./solutions/1174-Array-Selection-I)
