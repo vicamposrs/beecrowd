@@ -91,11 +91,18 @@ Cada pasta tem seu próprio `README.md` com um resumo do problema e o link para 
 | 1146 | Growing Sequences | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1146) | [abrir](./solutions/1146-Growing-Sequences) |
 | 1149 | Summing Consecutive Integers | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1149) | [abrir](./solutions/1149-Summing-Consecutive-Integers) |
 | 1150 | Exceeding Z | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1150) | [abrir](./solutions/1150-Exceeding-Z) |
+| 1151 | Easy Fibonacci | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1151) | [abrir](./solutions/1151-Easy-Fibonacci) |
 | 1153 | Simple Factorial | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1153) | [abrir](./solutions/1153-Simple-Factorial) |
+| 1154 | Ages | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1154) | [abrir](./solutions/1154-Ages) |
+| 1155 | S Sequence | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1155) | [abrir](./solutions/1155-S-Sequence) |
+| 1156 | S Sequence II | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1156) | [abrir](./solutions/1156-S-Sequence-II) |
 | 1157 | Divisors I | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1157) | [abrir](./solutions/1157-Divisors-I) |
+| 1158 | Sum of Consecutive Odd Numbers III | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1158) | [abrir](./solutions/1158-Sum-of-Consecutive-Odd-Numbers-III) |
+| 1159 | Sum of Consecutive Even Numbers | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1159) | [abrir](./solutions/1159-Sum-of-Consecutive-Even-Numbers) |
 | 1161 | Factorial Sum | Matemática | [ver](https://judge.beecrowd.com/en/problems/view/1161) | [abrir](./solutions/1161-Factorial-Sum) |
 | 1169 | Grains in a Chess Board | Matemática | [ver](https://judge.beecrowd.com/en/problems/view/1169) | [abrir](./solutions/1169-Grains-in-a-Chess-Board) |
 | 1174 | Array Selection I | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1174) | [abrir](./solutions/1174-Array-Selection-I) |
+| 1176 | Fibonacci Array | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1176) | [abrir](./solutions/1176-Fibonacci-Array) |
 | 1195 | Binary Search Tree | Grafos | [ver](https://judge.beecrowd.com/en/problems/view/1195) | [abrir](./solutions/1195-Binary-Search-Tree) |
 | 1214 | Above Average | Matemática | [ver](https://judge.beecrowd.com/en/problems/view/1214) | [abrir](./solutions/1214-Above-Average) |
 | 1219 | Colourful Flowers | Matemática | [ver](https://judge.beecrowd.com/en/problems/view/1219) | [abrir](./solutions/1219-Colourful-Flowers) |
@@ -225,9 +232,16 @@ Cada pasta tem seu próprio `README.md` com um resumo do problema e o link para 
 - [1146 - Growing Sequences](./solutions/1146-Growing-Sequences)
 - [1149 - Summing Consecutive Integers](./solutions/1149-Summing-Consecutive-Integers)
 - [1150 - Exceeding Z](./solutions/1150-Exceeding-Z)
+- [1151 - Easy Fibonacci](./solutions/1151-Easy-Fibonacci)
 - [1153 - Simple Factorial](./solutions/1153-Simple-Factorial)
+- [1154 - Ages](./solutions/1154-Ages)
+- [1155 - S Sequence](./solutions/1155-S-Sequence)
+- [1156 - S Sequence II](./solutions/1156-S-Sequence-II)
 - [1157 - Divisors I](./solutions/1157-Divisors-I)
+- [1158 - Sum of Consecutive Odd Numbers III](./solutions/1158-Sum-of-Consecutive-Odd-Numbers-III)
+- [1159 - Sum of Consecutive Even Numbers](./solutions/1159-Sum-of-Consecutive-Even-Numbers)
 - [1174 - Array Selection I](./solutions/1174-Array-Selection-I)
+- [1176 - Fibonacci Array](./solutions/1176-Fibonacci-Array)
 - [1589 - Bob Conduit](./solutions/1589-Bob-Conduit)
 - [1789 - The Race of Slugs](./solutions/1789-The-Race-of-Slugs)
 - [1933 - Tri-du](./solutions/1933-Tri-du)
