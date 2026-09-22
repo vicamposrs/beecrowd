@@ -100,6 +100,7 @@ Cada pasta tem seu próprio `README.md` com um resumo do problema e o link para 
 | 1158 | Sum of Consecutive Odd Numbers III | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1158) | [abrir](./solutions/1158-Sum-of-Consecutive-Odd-Numbers-III) |
 | 1159 | Sum of Consecutive Even Numbers | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1159) | [abrir](./solutions/1159-Sum-of-Consecutive-Even-Numbers) |
 | 1161 | Factorial Sum | Matemática | [ver](https://judge.beecrowd.com/en/problems/view/1161) | [abrir](./solutions/1161-Factorial-Sum) |
+| 1164 | Perfect Number | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1164) | [abrir](./solutions/1164-Perfect-Number) |
 | 1169 | Grains in a Chess Board | Matemática | [ver](https://judge.beecrowd.com/en/problems/view/1169) | [abrir](./solutions/1169-Grains-in-a-Chess-Board) |
 | 1174 | Array Selection I | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1174) | [abrir](./solutions/1174-Array-Selection-I) |
 | 1176 | Fibonacci Array | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1176) | [abrir](./solutions/1176-Fibonacci-Array) |
@@ -143,6 +144,7 @@ Cada pasta tem seu próprio `README.md` com um resumo do problema e o link para 
 | 2623 | Categories with Various Products | SQL | [ver](https://judge.beecrowd.com/en/problems/view/2623) | [abrir](./solutions/2623-Categories-with-Various-Products) |
 | 2624 | Number of Cities per Customers | SQL | [ver](https://judge.beecrowd.com/en/problems/view/2624) | [abrir](./solutions/2624-Number-of-Cities-per-Customers) |
 | 2625 | CPF Validation | SQL | [ver](https://judge.beecrowd.com/en/problems/view/2625) | [abrir](./solutions/2625-CPF-Validation) |
+| 2632 | Magic and Sword | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/2632) | [abrir](./solutions/2632-Magic-and-Sword) |
 | 2752 | Output 6 | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/2752) | [abrir](./solutions/2752-Output-6) |
 | 2756 | Output 10 | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/2756) | [abrir](./solutions/2756-Output-10) |
 | 2791 | Bean | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/2791) | [abrir](./solutions/2791-Bean) |
@@ -240,6 +242,7 @@ Cada pasta tem seu próprio `README.md` com um resumo do problema e o link para 
 - [1157 - Divisors I](./solutions/1157-Divisors-I)
 - [1158 - Sum of Consecutive Odd Numbers III](./solutions/1158-Sum-of-Consecutive-Odd-Numbers-III)
 - [1159 - Sum of Consecutive Even Numbers](./solutions/1159-Sum-of-Consecutive-Even-Numbers)
+- [1164 - Perfect Number](./solutions/1164-Perfect-Number)
 - [1174 - Array Selection I](./solutions/1174-Array-Selection-I)
 - [1176 - Fibonacci Array](./solutions/1176-Fibonacci-Array)
 - [1589 - Bob Conduit](./solutions/1589-Bob-Conduit)
@@ -250,6 +253,7 @@ Cada pasta tem seu próprio `README.md` com um resumo do problema e o link para 
 - [2061 - Closing Tabs](./solutions/2061-Closing-Tabs)
 - [2172 - Event](./solutions/2172-Event)
 - [2344 - Exam Grades](./solutions/2344-Exam-Grades)
+- [2632 - Magic and Sword](./solutions/2632-Magic-and-Sword)
 - [2752 - Output 6](./solutions/2752-Output-6)
 - [2756 - Output 10](./solutions/2756-Output-10)
 - [2791 - Bean](./solutions/2791-Bean)
