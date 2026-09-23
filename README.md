@@ -80,6 +80,7 @@ Cada pasta tem seu próprio `README.md` com um resumo do problema e o link para 
 | 1116 | Dividing X by Y | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1116) | [abrir](./solutions/1116-Dividing-X-by-Y) |
 | 1117 | Score Validation | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1117) | [abrir](./solutions/1117-Score-Validation) |
 | 1118 | Several Scores with Validation | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1118) | [abrir](./solutions/1118-Several-Scores-with-Validation) |
+| 1120 | Contract Revision | Strings | [ver](https://judge.beecrowd.com/en/problems/view/1120) | [abrir](./solutions/1120-Contract-Revision) |
 | 1131 | Grenais | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1131) | [abrir](./solutions/1131-Grenais) |
 | 1132 | Multiples of 13 | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1132) | [abrir](./solutions/1132-Multiples-of-13) |
 | 1133 | Rest of a Division | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1133) | [abrir](./solutions/1133-Rest-of-a-Division) |
@@ -101,12 +102,14 @@ Cada pasta tem seu próprio `README.md` com um resumo do problema e o link para 
 | 1159 | Sum of Consecutive Even Numbers | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1159) | [abrir](./solutions/1159-Sum-of-Consecutive-Even-Numbers) |
 | 1161 | Factorial Sum | Matemática | [ver](https://judge.beecrowd.com/en/problems/view/1161) | [abrir](./solutions/1161-Factorial-Sum) |
 | 1164 | Perfect Number | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1164) | [abrir](./solutions/1164-Perfect-Number) |
+| 1168 | LED | Strings | [ver](https://judge.beecrowd.com/en/problems/view/1168) | [abrir](./solutions/1168-LED) |
 | 1169 | Grains in a Chess Board | Matemática | [ver](https://judge.beecrowd.com/en/problems/view/1169) | [abrir](./solutions/1169-Grains-in-a-Chess-Board) |
 | 1174 | Array Selection I | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1174) | [abrir](./solutions/1174-Array-Selection-I) |
 | 1176 | Fibonacci Array | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1176) | [abrir](./solutions/1176-Fibonacci-Array) |
 | 1195 | Binary Search Tree | Grafos | [ver](https://judge.beecrowd.com/en/problems/view/1195) | [abrir](./solutions/1195-Binary-Search-Tree) |
 | 1214 | Above Average | Matemática | [ver](https://judge.beecrowd.com/en/problems/view/1214) | [abrir](./solutions/1214-Above-Average) |
 | 1219 | Colourful Flowers | Matemática | [ver](https://judge.beecrowd.com/en/problems/view/1219) | [abrir](./solutions/1219-Colourful-Flowers) |
+| 1222 | Short Story Competition.Strings | nan | [ver](https://judge.beecrowd.com/en/problems/view/1222) | [abrir](./solutions/1222-Short-Story-CompetitionStrings) |
 | 1589 | Bob Conduit | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1589) | [abrir](./solutions/1589-Bob-Conduit) |
 | 1789 | The Race of Slugs | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1789) | [abrir](./solutions/1789-The-Race-of-Slugs) |
 | 1933 | Tri-du | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1933) | [abrir](./solutions/1933-Tri-du) |
@@ -275,6 +278,8 @@ Cada pasta tem seu próprio `README.md` com um resumo do problema e o link para 
 
 ### Strings
 - [1024 - Encryption](./solutions/1024-Encryption)
+- [1120 - Contract Revision](./solutions/1120-Contract-Revision)
+- [1168 - LED](./solutions/1168-LED)
 
 ### Estruturas e Bibliotecas
 
