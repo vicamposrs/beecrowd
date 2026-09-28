@@ -38,6 +38,7 @@ Cada pasta tem seu próprio `README.md` com um resumo do problema e o link para 
 | 1036 | Bhaskara's Formula | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1036) | [abrir](./solutions/1036-Bhaskaras-Formula) |
 | 1037 | Interval | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1037) | [abrir](./solutions/1037-Interval) |
 | 1038 | Snack | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1038) | [abrir](./solutions/1038-Snack) |
+| 1039 | Fire Flowers | Geometria Computacional | [ver](https://judge.beecrowd.com/en/problems/view/1039) | [abrir](./solutions/1039-Fire-Flowers) |
 | 1040 | Average 3 | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1040) | [abrir](./solutions/1040-Average-3) |
 | 1041 | Coordinates of a Point | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1041) | [abrir](./solutions/1041-Coordinates-of-a-Point) |
 | 1042 | Simple Sort | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1042) | [abrir](./solutions/1042-Simple-Sort) |
@@ -102,14 +103,18 @@ Cada pasta tem seu próprio `README.md` com um resumo do problema e o link para 
 | 1159 | Sum of Consecutive Even Numbers | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1159) | [abrir](./solutions/1159-Sum-of-Consecutive-Even-Numbers) |
 | 1161 | Factorial Sum | Matemática | [ver](https://judge.beecrowd.com/en/problems/view/1161) | [abrir](./solutions/1161-Factorial-Sum) |
 | 1164 | Perfect Number | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1164) | [abrir](./solutions/1164-Perfect-Number) |
+| 1165 | Prime Number | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1165) | [abrir](./solutions/1165-Prime-Number) |
 | 1168 | LED | Strings | [ver](https://judge.beecrowd.com/en/problems/view/1168) | [abrir](./solutions/1168-LED) |
 | 1169 | Grains in a Chess Board | Matemática | [ver](https://judge.beecrowd.com/en/problems/view/1169) | [abrir](./solutions/1169-Grains-in-a-Chess-Board) |
+| 1172 | Array Replacement I | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1172) | [abrir](./solutions/1172-Array-Replacement-I) |
 | 1174 | Array Selection I | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1174) | [abrir](./solutions/1174-Array-Selection-I) |
 | 1176 | Fibonacci Array | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1176) | [abrir](./solutions/1176-Fibonacci-Array) |
 | 1195 | Binary Search Tree | Grafos | [ver](https://judge.beecrowd.com/en/problems/view/1195) | [abrir](./solutions/1195-Binary-Search-Tree) |
 | 1214 | Above Average | Matemática | [ver](https://judge.beecrowd.com/en/problems/view/1214) | [abrir](./solutions/1214-Above-Average) |
 | 1219 | Colourful Flowers | Matemática | [ver](https://judge.beecrowd.com/en/problems/view/1219) | [abrir](./solutions/1219-Colourful-Flowers) |
-| 1222 | Short Story Competition.Strings | nan | [ver](https://judge.beecrowd.com/en/problems/view/1222) | [abrir](./solutions/1222-Short-Story-CompetitionStrings) |
+| 1222 | Short Story Competition | Strings | [ver](https://judge.beecrowd.com/en/problems/view/1222) | [abrir](./solutions/1222-Short-Story-Competition) |
+| 1234 | Dancing Sentence | Strings | [ver](https://judge.beecrowd.com/en/problems/view/1234) | [abrir](./solutions/1234-Dancing-Sentence) |
+| 1235 | Inside Out | Strings | [ver](https://judge.beecrowd.com/en/problems/view/1235) | [abrir](./solutions/1235-Inside-Out) |
 | 1589 | Bob Conduit | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1589) | [abrir](./solutions/1589-Bob-Conduit) |
 | 1789 | The Race of Slugs | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1789) | [abrir](./solutions/1789-The-Race-of-Slugs) |
 | 1933 | Tri-du | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1933) | [abrir](./solutions/1933-Tri-du) |
@@ -246,6 +251,8 @@ Cada pasta tem seu próprio `README.md` com um resumo do problema e o link para 
 - [1158 - Sum of Consecutive Odd Numbers III](./solutions/1158-Sum-of-Consecutive-Odd-Numbers-III)
 - [1159 - Sum of Consecutive Even Numbers](./solutions/1159-Sum-of-Consecutive-Even-Numbers)
 - [1164 - Perfect Number](./solutions/1164-Perfect-Number)
+- [1165 - Prime Number](./solutions/1165-Prime-Number)
+- [1172 - Array Replacement I](./solutions/1172-Array-Replacement-I)
 - [1174 - Array Selection I](./solutions/1174-Array-Selection-I)
 - [1176 - Fibonacci Array](./solutions/1176-Fibonacci-Array)
 - [1589 - Bob Conduit](./solutions/1589-Bob-Conduit)
@@ -280,6 +287,9 @@ Cada pasta tem seu próprio `README.md` com um resumo do problema e o link para 
 - [1024 - Encryption](./solutions/1024-Encryption)
 - [1120 - Contract Revision](./solutions/1120-Contract-Revision)
 - [1168 - LED](./solutions/1168-LED)
+- [1222 - Short Story Competition](./solutions/1222-Short-Story-Competition)
+- [1234 - Dancing Sentence](./solutions/1234-Dancing-Sentence)
+- [1235 - Inside Out](./solutions/1235-Inside-Out)
 
 ### Estruturas e Bibliotecas
 
@@ -296,6 +306,7 @@ Cada pasta tem seu próprio `README.md` com um resumo do problema e o link para 
 - [1195 - Binary Search Tree](./solutions/1195-Binary-Search-Tree)
 
 ### Geometria Computacional
+- [1039 - Fire Flowers](./solutions/1039-Fire-Flowers)
 
 ### SQL
 - [2602 - Basic Select](./solutions/2602-Basic-Select)
