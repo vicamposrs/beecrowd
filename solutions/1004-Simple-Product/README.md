@@ -7,7 +7,8 @@ Lê dois valores inteiros, calcula o pruduto entre eles e exibe.
 
 ---
 
-**Abordagem:** Armazena os dois valores lidos, calcula o produto e exibe o resultado precedido por `PROD =`, conforme o formato solicitado pelo problema.
+**Abordagem:** Nas duas implementações, lê dois valores inteiros, calcula o produto entre eles e exibe o resultado precedido por `PROD =`. 
+A solução em C utiliza `scanf` e `printf`, enquanto a solução em Java utiliza `Scanner` e `System.out.println`.
 
 ---
 

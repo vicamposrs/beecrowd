@@ -3,7 +3,7 @@
 (Extremamente Básico)
 
 ## Resumo
-Lê dois valores inteiros e exibe a soma deles.
+Lê dois valores inteiros e exibe a soma entre eles.
 
 ---
 
@@ -11,4 +11,4 @@ Lê dois valores inteiros e exibe a soma deles.
 
 ---
 
-🔗 [Ver enunciado completo](https://judge.beecrowd.com/en/problems/view/1079)
+🔗 [Ver enunciado completo](https://judge.beecrowd.com/en/problems/view/1001)

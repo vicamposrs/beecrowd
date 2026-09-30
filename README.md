@@ -113,6 +113,7 @@ Cada pasta tem seu próprio `README.md` com um resumo do problema e o link para 
 | 1176 | Fibonacci Array | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1176) | [abrir](./solutions/1176-Fibonacci-Array) |
 | 1177 | Array Fill II | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1177) | [abrir](./solutions/1177-Array-Fill-II) |
 | 1178 | Array Fill III | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1178) | [abrir](./solutions/1178-Array-Fill-III) |
+| 1188 | Inferior Area | Iniciante | [ver](https://judge.beecrowd.com/en/problems/view/1188) | [abrir](./solutions/1188-Inferior-Area) |
 | 1195 | Binary Search Tree | Grafos | [ver](https://judge.beecrowd.com/en/problems/view/1195) | [abrir](./solutions/1195-Binary-Search-Tree) |
 | 1214 | Above Average | Matemática | [ver](https://judge.beecrowd.com/en/problems/view/1214) | [abrir](./solutions/1214-Above-Average) |
 | 1219 | Colourful Flowers | Matemática | [ver](https://judge.beecrowd.com/en/problems/view/1219) | [abrir](./solutions/1219-Colourful-Flowers) |
@@ -263,6 +264,7 @@ Cada pasta tem seu próprio `README.md` com um resumo do problema e o link para 
 - [1176 - Fibonacci Array](./solutions/1176-Fibonacci-Array)
 - [1177 - Array Fill II](./solutions/1177-Array-Fill-II)
 - [1178 - Array Fill III](./solutions/1178-Array-Fill-III)
+- [1188 - Inferior Area](./solutions/1188-Inferior-Area)
 - [1589 - Bob Conduit](./solutions/1589-Bob-Conduit)
 - [1789 - The Race of Slugs](./solutions/1789-The-Race-of-Slugs)
 - [1933 - Tri-du](./solutions/1933-Tri-du)
