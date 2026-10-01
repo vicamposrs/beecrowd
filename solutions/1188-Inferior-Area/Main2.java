@@ -36,17 +36,27 @@ public class Main2{
     }
 
     static String doubleOneDecimalPlace(double a){
+        String sinal = "";
+        if(a < 0){
+            a = -a;
+            sinal = "-";
+        }
         StringBuilder output = new StringBuilder();
         int num = (int) a;
-        double casas = (num - a) * 10;
+        double casas = (a - num) * 10;
 
         int parteDecimal = (int) casas;
         double resto = casas - parteDecimal;
-
+      
         if (resto > 0.5 || (resto == 0.5 && parteDecimal % 2 != 0)) {
                 parteDecimal++;
         }
-        output.append(num).append(".").append(parteDecimal);
+        if(parteDecimal == 10){
+            parteDecimal = 0;
+            num++;
+        }
+
+        output.append(sinal).append(num).append(".").append(parteDecimal);
         return output.toString();
     }
 }
