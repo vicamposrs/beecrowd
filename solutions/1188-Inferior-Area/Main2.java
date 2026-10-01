@@ -14,18 +14,18 @@ public class Main2{
 
         for(int y = 7; y < 12;y++){
             for(int x = 0; x < 12;x++){
-                num = Integer.parseInt(in.readLine());
+                num = Double.parseDouble(in.readLine());
                 if(y >= abs(x - 5.5) + 6.5) sum += num;
             }
         }
 
         switch (operation) {
             case "S":
-                System.out.println(doubleOneDecimalPlace(sum));
+                System.out.println(formatOneDecimalPlace(sum));
                 break;
         
             case "M":
-                System.out.println(doubleOneDecimalPlace(sum/30.0));
+                System.out.println(formatOneDecimalPlace(sum/30.0));
                 break;
         }
     }
@@ -35,28 +35,28 @@ public class Main2{
         return x;
     }
 
-    static String doubleOneDecimalPlace(double a){
+    static String formatOneDecimalPlace(double value){
         String sinal = "";
-        if(a < 0){
-            a = -a;
+        if(value < 0){
+            value = -value;
             sinal = "-";
         }
         StringBuilder output = new StringBuilder();
-        int num = (int) a;
-        double casas = (a - num) * 10;
+        int integerPart = (int) value;
+        double decimalPart = value - integerPart;
 
-        int parteDecimal = (int) casas;
-        double resto = casas - parteDecimal;
-      
-        if (resto > 0.5 || (resto == 0.5 && parteDecimal % 2 != 0)) {
-                parteDecimal++;
+        int firstDecimalDigit = (int) (decimalPart * 10);
+        double remainder = decimalPart*10 - firstDecimalDigit;
+        
+        if (remainder > 0.5 || (remainder == 0.5 && firstDecimalDigit % 2 != 0)) {
+                firstDecimalDigit++;
         }
-        if(parteDecimal == 10){
-            parteDecimal = 0;
-            num++;
+        if(firstDecimalDigit == 10){
+            firstDecimalDigit = 0;
+            integerPart++;
         }
 
-        output.append(sinal).append(num).append(".").append(parteDecimal);
+        output.append(sinal).append(integerPart).append(".").append(firstDecimalDigit);
         return output.toString();
     }
 }

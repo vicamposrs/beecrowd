@@ -14,7 +14,7 @@ public class Main{
 
         for(int y = 7; y < 12;y++){
             for(int x = 0; x < 12;x++){
-                num = Integer.parseInt(in.readLine());
+                num = Double.parseDouble(in.readLine());
                 if(y >= abs(x - 5.5) + 6.5) sum += num;
             }
         }
@@ -28,9 +28,6 @@ public class Main{
                 System.out.printf("%.1f\n",sum/30);
                 break;
         }
-        
-
-        
     }
 
     static double abs(double x){
